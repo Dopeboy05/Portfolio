@@ -1,0 +1,28 @@
+
+> react_repo@0.0.0 build /home/dopeboy/Downloads/portfolio-neo-brutalist
+> pnpm install --prefer-offline && rm -rf node_modules/.vite-temp && tsc -b && vite build
+
+Lockfile is up to date, resolution step is skipped
+Already up to date
+
+╭ Warning ─────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│   Ignored build scripts: esbuild.                                            │
+│   Run "pnpm approve-builds" to pick which dependencies should be allowed     │
+│   to run scripts.                                                            │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+Done in 640ms using pnpm v10.15.0
+vite v6.2.6 building for production...
+transforming...
+Browserslist: browsers data (caniuse-lite) is 9 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+✓ 1488 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.86 kB │ gzip:  0.47 kB
+dist/assets/index-D-gxxH6z.css   17.62 kB │ gzip:  3.82 kB
+dist/assets/index-D7Z78twj.js   211.83 kB │ gzip: 56.15 kB
+✓ built in 1.74s
