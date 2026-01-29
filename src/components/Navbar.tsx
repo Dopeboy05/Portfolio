@@ -18,7 +18,7 @@ const Navbar = () => {
           {/* Logo */}
           <div className="flex-shrink-0">
             <a href="#" className="text-3xl font-bold tracking-tighter hover:text-neo-pink transition-colors">
-              SUPRIYA<span className="text-neo-pink">.DEV</span>
+              SUPRIYA05<span className="text-neo-pink">.TECH</span>
             </a>
           </div>
 
