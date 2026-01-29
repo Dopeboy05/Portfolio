@@ -2,7 +2,7 @@ const Footer = () => {
   return (
     <footer className="w-full py-12 px-4 bg-neo-black text-neo-white text-center">
       <p className="font-bold text-lg mb-4">
-        © {new Date().getFullYear()} Supriya Soumya Ranjan | Neo-Brutalist Portfolio
+        © {new Date().getFullYear()} Supriya Soumya Ranjan
       </p>
       <a 
         href="https://dopeboy05.github.io/Portfolio/" 
