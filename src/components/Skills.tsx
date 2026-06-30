@@ -104,7 +104,7 @@ const Skills = () => {
                     rel="noopener noreferrer"
                     className="inline-block px-4 py-2 bg-neo-black text-white font-bold border-3 border-neo-black hover:bg-neo-orange hover:-translate-y-1 transition-all text-sm"
                   >
-                    View Project →
+                    View Project &rarr;
                   </a>
                 </div>
               ))}
