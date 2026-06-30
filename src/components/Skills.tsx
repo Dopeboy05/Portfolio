@@ -5,6 +5,7 @@ const Skills = () => {
     "Figma Design",
     "UI/UX Design",
     "JavaScript",
+    "React",
     "Python",
     "Linux",
     "Responsive Web Design",
@@ -15,6 +16,20 @@ const Skills = () => {
   ];
 
   const projects = [
+     {
+       title: "MotionForge",
+       date: "2025",
+       platform: "TypeScript / Node.js",
+       description: "Production-grade programmatic video generation engine that renders on CPU — no Chromium needed. Streams frames straight to ffmpeg, runs headless on $5 VPS or Raspberry Pi. Physics animations, full drawing API, TrueType text rendering, exports MP4/WebM/GIF.",
+       link: "https://github.com/Dopeboy05/MotionForge"
+     },
+    {
+      title: "DevQuest",
+      date: "2025",
+      platform: "React / Vercel / PostgreSQL",
+      description: "Narrative coding game teaching Linux terminal and HTML/CSS through story-driven levels. 80 levels, 4 difficulty tiers, server-authoritative XP system, JWT auth, live leaderboards.",
+      link: "https://github.com/Dopeboy05/DevQuest"
+}
     {
       title: "Coffee Ordering App",
       date: "2024",
