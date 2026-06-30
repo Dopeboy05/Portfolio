@@ -29,7 +29,7 @@ const Skills = () => {
       platform: "React / Vercel / PostgreSQL",
       description: "Narrative coding game teaching Linux terminal and HTML/CSS through story-driven levels. 80 levels, 4 difficulty tiers, server-authoritative XP system, JWT auth, live leaderboards.",
       link: "https://github.com/Dopeboy05/DevQuest"
-}
+    },
     {
       title: "Coffee Ordering App",
       date: "2024",
