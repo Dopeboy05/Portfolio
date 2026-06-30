@@ -22,7 +22,7 @@ const Skills = () => {
        platform: "TypeScript / Node.js",
        description: "Production-grade programmatic video generation engine that renders on CPU — no Chromium needed. Streams frames straight to ffmpeg, runs headless on $5 VPS or Raspberry Pi. Physics animations, full drawing API, TrueType text rendering, exports MP4/WebM/GIF.",
        link: "https://github.com/Dopeboy05/MotionForge"
-     },
+    },
     {
       title: "DevQuest",
       date: "2025",
