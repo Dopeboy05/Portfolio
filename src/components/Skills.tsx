@@ -5,6 +5,8 @@ const Skills = () => {
     "Figma Design",
     "UI/UX Design",
     "JavaScript",
+    "Python",
+    "Linux",
     "Responsive Web Design",
     "AI Tools Integration",
     "Event Management",
